@@ -1,13 +1,9 @@
 # Player-Re-Identification-in-Sports-Footage
 
-🎯 Player Re-Identification Assignment – Liat AI
-
-👤 Prepared By
-Dibyajyoti Dutta
-Assignment for: AI Intern Position at Liat AI
+🎯 Player Re-Identification 
 
 
-✅ Task Chosen: Option 2 – Re-Identification in a Single Feed
+✅ Task Chosen: Re-Identification in a Single Feed
 
 Objective: Given a 15-second video (`15sec_input_720p.mp4`), the goal is to detect players, assign IDs, and ensure players who leave and re-enter the frame retain the same ID.
 
@@ -15,7 +11,7 @@ Objective: Given a 15-second video (`15sec_input_720p.mp4`), the goal is to dete
 
 📁 Folder Contents
 
-Liat_AI_Player_ReID_Assignment/
+Player_ReID_Assignment/
 │
 ├── output.avi                  # Final video with bounding boxes and player IDs
 ├── player_reid_colab.ipynb     # Colab notebook with complete working code
@@ -83,10 +79,3 @@ files.download("output.avi")
 - OpenCV (`cv2`)
 - Ultralytics YOLO (`pip install ultralytics`)
 - Google Colab (preferred for execution)
-
----
-
-## 🙌 Thank You!
-I really enjoyed working on this assignment. Looking forward to the opportunity!
-
-— Dibyajyoti Dutta
