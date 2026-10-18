@@ -16,7 +16,7 @@ Player_ReID_Assignment/
 ├── output.avi                  # Final video with bounding boxes and player IDs
 ├── player_reid_colab.ipynb     # Colab notebook with complete working code
 ├── README.md                   # This file
-└── best.pt                     # Provided YOLOv11 model (optional to include)
+└── best.pt                     # Provided YOLOv11 model 
 
 
 ⚙️ How to Run the Notebook (on Google Colab)
